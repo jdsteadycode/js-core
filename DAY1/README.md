@@ -8,11 +8,11 @@ JavaScript enables developers to make websites interactive, supporting dynamic c
 
 ## 🚀 History
 
-- **1994-95**: Marc Andreeson proposed idea for dynamic Web-Applications and requested Brendon Eich for creating such language of Web for NetScape Browser!
+- **1994-95**: Marc Andreessen proposed the idea of dynamic web applications and requested Brendan Eich to create a scripting language for the Netscape browser.
 - **1995**: JavaScript was created by Brendan Eich while working at Netscape Communications.
-- **1997**: Standardized by ECMA International.
-- **2009**: Node.js introduced JavaScript to server-side development.
-- **2015 (ES6)**: Major update brought features like classes, modules, and arrow functions, revolutionizing JavaScript development.
+- **1997**: JavaScript was standardized by ECMA International.
+- **2009**: Ryan Dahl introduced JavaScript to server-side development with Node.js.
+- **2015 (ES6)**: A major update brought features like classes, modules, and arrow functions, revolutionizing JavaScript development.
 
 ## 🌟 Why Learn JavaScript?
 
