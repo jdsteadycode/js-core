@@ -14,11 +14,10 @@ Here you will get to know the fundamentals of JavaScript variables and their key
 - Examples: Storing values like a name, age, or marital status.
 - Example:
 
-```
-let fullName = "Joseph Ono";  // String
-let age = 21;                 // Number
-let isMarried = false;        // Boolean
-
+```javascript
+let fullName = "Joseph Ono"; // String
+let age = 21; // Number
+let isMarried = false; // Boolean
 ```
 
 ## 2. Variables Types
@@ -30,12 +29,11 @@ let isMarried = false;        // Boolean
 - Null: A variable is explicitly assigned a `null` value.
 - Example:
 
-```
-let a = undefined;  // Undefined
-let b = null;       // Null
-console.log(typeof(a));  // Output: undefined
-console.log(typeof(b));  // Output: object
-
+```javascript
+let a = undefined; // Undefined
+let b = null; // Null
+console.log(typeof a); // Output: undefined
+console.log(typeof b); // Output: object
 ```
 
 ## 3. Ways to Create Variables
@@ -45,11 +43,10 @@ console.log(typeof(b));  // Output: object
 - `var`: The older way of declaring variables. It is function-scoped and allows accessing variables before declaration (with a value of `undefined`).
 - Example:
 
-```
-let itemName = "Laptops";  // Block-scoped variable
-const itemType = "Electronics";  // Constant, cannot be reassigned
-var itemBrand = "HP";  // Function-scoped variable
-
+```javascript
+let itemName = "Laptops"; // Block-scoped variable
+const itemType = "Electronics"; // Constant, cannot be reassigned
+var itemBrand = "HP"; // Function-scoped variable
 ```
 
 ### Why Learn JavaScript Variables?
