@@ -53,3 +53,14 @@ JavaScript processes code in **two phases**:
 debugger; // Pause execution here
 console.log(firstName);
 ```
+
+### Summary
+
+```javascript
+// Memory Creation
+var age = undefined;
+
+// Code Execution
+age = 12; // Now 'age' is a number
+console.log(age); // Output: 12
+```
