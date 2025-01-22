@@ -45,7 +45,7 @@ exercise-project-I/
    ```bash
    git clone https://github.com/jdsteadycode/js-core.git
    ```
-2. Open the `index.html` file in your browser or use a live server.
+2. Open the `exercise-project-I/index.html` file in your browser or use a live server.
 3. Follow the on-screen instructions to answer the quiz questions.
 4. Input your answers in the prompt (e.g., `A`, `B`, `C`, `D`).
 5. View your score and perk after completing the quiz.
