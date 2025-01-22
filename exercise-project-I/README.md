@@ -43,7 +43,7 @@ exercise-project-I/
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/jdsteadycode/project-exercise.git
+   git clone https://github.com/jdsteadycode/js-core.git
    ```
 2. Open the `index.html` file in your browser or use a live server.
 3. Follow the on-screen instructions to answer the quiz questions.
