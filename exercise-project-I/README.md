@@ -30,6 +30,11 @@ Ensure you have the following:
 project-exercise/
 ├── index.html  # Main HTML file
 ├── script.js   # JavaScript logic for the quiz
+└── screenshots/
+        ├── Welcome-Message.png
+        ├── Question.png
+        ├── Answer-Response-Correct.png
+        ├── Final-Score.png
 ```
 
 ---
