@@ -27,7 +27,7 @@ Ensure you have the following:
 ### Folder Structure
 
 ```
-project-exercise/
+exercise-project-I/
 ├── index.html  # Main HTML file
 ├── script.js   # JavaScript logic for the quiz
 └── screenshots/
