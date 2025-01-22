@@ -58,15 +58,19 @@ project-exercise/
 
 ### Welcome Message
 
-![Welcome Screen](#)
+![Welcome Screen](./screenshots/Welcome-Message.png)
 
 ### Quiz Question
 
-![Quiz Question](#)
+![Quiz Question](./screenshots/Question.png)
+
+### Quiz Response (Correct Answer)
+
+![Quiz Response Correct Answer](./screenshots/Answer-Response-Correct.png)
 
 ### Final Score
 
-![Final Score](#)
+![Final Score](./screenshots/Final-Score.png)
 
 ---
 
