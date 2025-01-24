@@ -66,7 +66,7 @@ This repository demonstrates various **String Methods and Properties** in JavaSc
 
 ## How to Use 🛠️
 
-1. Clone the repository: `git clone <repo-url>`
+1. Clone the repository: `git clone https://github.com/jdsteadycode/js-core.git`
 2. Open `index.html` in your browser 🌐.
 3. Explore the console outputs from `script.js` for live examples and explanations 🖥️.
 
