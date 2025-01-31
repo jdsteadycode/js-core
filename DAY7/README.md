@@ -11,7 +11,7 @@ Falsy values are those that evaluate to false when converted to a Boolean:
 - **`false`** – Boolean `false`.
 - **`0`, `-0`** – Zero values.
 - **`NaN`** – Not a Number.
-- **`""`, `''`, ``\`\`** – Empty Quotes and Template Strings.
+- **`""`, `''`, ``** – Empty Quotes and Template Strings.
 - **`null`** – Null value.
 - **`undefined`** - Undefined type.
 
