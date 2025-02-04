@@ -26,6 +26,11 @@ Everything except the falsy values is truthy. Examples:
 - Any non-empty string (**`"0"`, `"false"`**, etc.).
 - Any positive or negative number except `0`.
 
+## 🚀 How to Run
+
+1. **Open** `index.html` in a web browser. 🌍
+2. **Open the Console** (`F12` → `Console` in Chrome) to see the results from `script.js`. 🖥️
+
 ## **🔹 Checking Truthy/Falsy**
 
 Use the `Boolean()` function or `!!` (double negation) to check values:
