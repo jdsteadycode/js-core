@@ -48,11 +48,10 @@ The `Math` object in JavaScript provides several properties and methods for perf
 
 ---
 
-## How to Use 🛠️
+## 🚀 How to Run
 
-1. Clone the repository: `git clone https://github.com/jdsteadycode/js-core.git`
-2. Open `index.html` in your browser 🌐.
-3. Explore the console outputs from `script.js` for live examples and explanations 🖥️.
+1. **Open** `index.html` in a web browser. 🌍
+2. **Open the Console** (`F12` → `Console` in Chrome) to see the results from `script.js`. 🖥️live examples and explanations 🖥️.
 
 ---
 
