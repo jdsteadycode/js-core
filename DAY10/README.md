@@ -1,4 +1,4 @@
-#### **🔥 DAY 10: Decision Making in JavaScript (IF Statement) **
+#### **🔥 DAY 10: Decision Making in JavaScript (IF Statement) 🎯**
 
 This project contains practice exercises and explanations for **Decision Making** using `if` statement in JavaScript.
 
