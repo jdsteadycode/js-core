@@ -38,10 +38,10 @@ This project takes decision-making to the next level by implementing nested if-e
 
 Unlike multiple independent `if` statements, `if-else if-else` works as a single execution block. Here,
 
-✅ JS stops checking conditions once a match is found, making it faster!
-✅ Conditions inside an `if` block run **only if** the parent block is `true`.
-✅ More structured and readable decision-making logic.
-✅ Works with Truthy & Falsy values, not just `true` or `false`.
+- ✅ JS stops checking conditions once a match is found, making it faster!
+- ✅ Conditions inside an `if` block run **only if** the parent block is `true`.
+- ✅ More structured and readable decision-making logic.
+- ✅ Works with Truthy & Falsy values, not just `true` or `false`.
 
 ## 🛠 Debugging / Execution Guide
 
