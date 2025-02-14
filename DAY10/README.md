@@ -12,6 +12,7 @@ This project contains practice exercises and explanations for **Decision Making*
 - **Setting Default Values** – Assigned `Guest` & `20` if input was empty.
 - **Multi-line IF Execution** – Used `{}` to execute multiple statements.
 - **Performance Drawback** - JS still checks all IFs even if one matches!
+- **Debugging/ Testing** - Used `debugger` keyword or can explicitly see in sources tab to see how code executes based on condition!
 
 ## 🚀 How to Run
 
