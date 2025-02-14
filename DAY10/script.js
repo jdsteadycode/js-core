@@ -15,9 +15,6 @@ let userAge = parseInt(prompt("Enter Age? "));      // parseInt to convert a Str
         ➡ 34 ✅
 */
 
-// log*
-console.log(`NAME: ${userName} & AGE: ${userAge}`);
-
 
 //  🏠 Homework Assignment: Set default values if the user leaves input empty or fails to provide an input!
 if ((userName === "" || userName === " " || userName === null) && (isNaN(userAge))) {
@@ -26,6 +23,10 @@ if ((userName === "" || userName === " " || userName === null) && (isNaN(userAge
     userName = "Guest";
     userAge = 20;
 }
+
+
+// log*
+console.log(`NAME: ${userName} & AGE: ${userAge}`);
 
 
 // 🎯 IF - An decision making Statement that executes the block according to the satisfied condition!
@@ -81,7 +82,12 @@ if(userAge >= 40 && userAge <= 100) {
 
     🔹 Here 1st IF condition itself satisfies the conditon (age) Right! 
     🔹 So logically program should get halted or terminated after this IF Statement!
-
     🔹But, still JS Engine checks all other remaining conditions or the code! 
+    
+    🔹To see this live one can do the following steps -
+        1. One can see by adding `debugger` above any IF Statement given in the code! 
+        2. then open `developer tools` by right clicking and selecting the inspect button
+        3. After then go to `sources` tab then click on `forward-step` button to see the script execution...
+    
     As even it doesn't print other IF(s) Statement code "But, still it makes tasks time-consuming and less-efficient!" 🐢
 */
