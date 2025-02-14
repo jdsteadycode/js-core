@@ -41,7 +41,7 @@ Unlike multiple independent `if` statements, `if-else if-else` works as a single
 - ✅ JS stops checking conditions once a match is found, making it faster!
 - ✅ Conditions inside an `if` block run **only if** the parent block is `true`.
 - ✅ More structured and readable decision-making logic.
-  ✅ Works with Truthy & Falsy values, not just `true` or `false`.
+- ✅ Works with Truthy & Falsy values, not just `true` or `false`.
 
 ## 🛠 Debugging / Execution Guide
 
