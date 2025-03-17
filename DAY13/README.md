@@ -19,7 +19,7 @@ This project more decision-making more optimized by implementing switch-case in 
 
 ## ⚡ How it Works?
 
-**The `switch-case` block checks for the matching `true` with `case` and then returns result accordingly**
+**The `switch-case` block checks for the matching given `true` value with `case` value and then returns result accordingly**
 
 - `0-4` → Kid playing 🎈
 - `5-17` → School student learning 📚
