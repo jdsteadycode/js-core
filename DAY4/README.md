@@ -64,3 +64,5 @@ var age = undefined;
 age = 12; // Now 'age' is a number
 console.log(age); // Output: 12
 ```
+
+**NOTE**During Code Execution phase JS Engine stores variable's address
