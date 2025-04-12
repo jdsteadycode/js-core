@@ -28,7 +28,7 @@ This project demonstrates optimized decision-making by implementing ternary-oper
 Unlike the `if-else` statements, ternary-operator`? :` has,
 
 - ✅ less code
-- ✅ faster as only two parts `?` or `:` (primarily\*)
+- ✅ faster as only two parts `?` or `:` of execution after `condition` given (primarily\*)
 - ✅ More optimized and readable/ clear decision-making logic.
 
 ## 🛠 Debugging / Execution Guide
