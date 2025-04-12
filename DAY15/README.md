@@ -8,7 +8,7 @@ Following project demonstrates how JavaScript stores variables, not by directly 
 ## **📌 Contents**
 
 - **Memory Storage Concept** – Understanding how JS Engine handles storage using memory addresses.
-- **Primitive vs Non-Primitive** – How strings, numbers, booleans, `null`, and `undefined` are stored internally.
+- **Primitive vs Non-Primitive** – How `strings, numbers, booleans, null, and undefined` are stored behind-the-scenes.
 - **DevTools Memory Tab** – Used Chrome DevTools to inspect actual memory usage and how values are retained.
 - **Address Sharing** – How JS reuses memory for same-value variables.
 - **@Address in Action** – Tracked memory using the `@address` reference in snapshots.
